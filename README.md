@@ -1,0 +1,1 @@
+Este es un ejemplo de clonar repositorio de github en una carpeta o proyecto ubicado en mi equipo
